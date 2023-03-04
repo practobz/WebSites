@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Default2.aspx.cs" Inherits="Default2" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Home.aspx.cs" Inherits="Default2" %>
 
 <!DOCTYPE html>
 
@@ -23,10 +23,11 @@
         <table class="auto-style1">
             <tr>
                 <td class="auto-style2">
-                    <asp:Image ID="Image2" runat="server" Height="569px" ImageUrl="~/image/new.jpeg" Width="625px" />
+                    <asp:Image ID="Image2" runat="server" Height="572px" ImageUrl="~/image/new.jpeg" Width="625px" />
                 </td>
                 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <asp:Label ID="Label2" runat="server" Font-Bold="True" Font-Names="Berlin Sans FB" Font-Size="XX-Large" Text="Lifeline Hospital"></asp:Label>
+                    <asp:Image ID="Image3" runat="server" Height="31px" ImageUrl="~/image/plus1.png" Width="41px" />
                     <br />
 &nbsp;<br />
                     <br />
